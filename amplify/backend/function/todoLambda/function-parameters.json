@@ -1,0 +1,12 @@
+{
+    "permissions": {
+        "auth": {
+            "amplifyconsole14c3daef": [
+                "create",
+                "read",
+                "update",
+                "delete"
+            ]
+        }
+    }
+}
