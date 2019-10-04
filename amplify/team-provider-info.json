@@ -15,5 +15,26 @@
                 "amplifyconsole14c3daef": {}
             }
         }
+    },
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-console-prod-20191004142933-authRole",
+            "UnauthRoleArn": "arn:aws:iam::305376127031:role/amplify-console-prod-20191004142933-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::305376127031:role/amplify-console-prod-20191004142933-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-console-prod-20191004142933-deployment",
+            "UnauthRoleName": "amplify-console-prod-20191004142933-unauthRole",
+            "StackName": "amplify-console-prod-20191004142933",
+            "StackId": "arn:aws:cloudformation:us-east-1:305376127031:stack/amplify-console-prod-20191004142933/495c10c0-e685-11e9-9999-1262c1c6cf8e"
+        },
+        "categories": {
+            "auth": {
+                "amplifyconsole14c3daef": {}
+            },
+            "function": {
+                "todoLambda": {},
+                "amplifyconsole14c3daef": {}
+            }
+        }
     }
 }

@@ -69,8 +69,8 @@
 				"Runtime": "nodejs10.x",
 				"Timeout": "25",
 				"Code": {
-					"S3Bucket": "amplify-console-dev-20191004091346-deployment",
-					"S3Key": "amplify-builds/todoLambda-3159533542674a726454-build.zip"
+					"S3Bucket": "amplify-console-prod-20191004142933-deployment",
+					"S3Key": "amplify-builds/todoLambda-4b4a43487a3442466472-build.zip"
 				}
 			}
 		},
