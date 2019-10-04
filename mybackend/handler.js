@@ -10,8 +10,12 @@ const todos=[
     name:"is "
   },
   {
-    id:1,
+    id:3,
     name:"from serverless"
+  },
+  {
+    id:4,
+    name:"hasa todo"
   },
 
 

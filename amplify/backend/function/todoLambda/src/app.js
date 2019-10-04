@@ -41,8 +41,12 @@ const todos=[
     name:"Sleep"
   },
   {
-    id:1,
+    id:3,
     name:"Code"
+  },
+  {
+    id:4,
+    name:"amplify todo"
   },
 
 
